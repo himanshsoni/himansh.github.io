@@ -4,7 +4,7 @@ export const projectsData = [
     projectDescription: "Keep track of income and expenses",
     imageUrl:
       "https://firebasestorage.googleapis.com/v0/b/portfolio-assets-580b7.appspot.com/o/Screenshot%20(372).png?alt=media&token=3ac23a8b-7747-4132-b667-cd7a5a1116c5",
-    projectUrl: "https://still-crag-41039.herokuapp.com/",
+    projectUrl: "https://pink-bewildered-mussel.cyclic.app/",
   },
   {
     projectName: "Story Share",
@@ -12,7 +12,7 @@ export const projectsData = [
       "Web App to Where User Can publish their Story as Public or Private database.",
     imageUrl:
       "https://firebasestorage.googleapis.com/v0/b/portfolio-assets-580b7.appspot.com/o/storyshare.png?alt=media&token=74d120e6-0eef-455a-ae27-f94562b8d13f",
-    projectUrl: "https://enigmatic-brook-58139.herokuapp.com/",
+    projectUrl: "https://embarrassed-slippers-lion.cyclic.app/",
   },
   {
     projectName: "Name It!",
