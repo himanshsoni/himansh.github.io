@@ -15,11 +15,11 @@ export const projectsData = [
     projectUrl: "https://embarrassed-slippers-lion.cyclic.app/",
   },
   {
-    projectName: "Name It!",
-    projectDescription:
-      "Do you find it difficult to name your projects or ventures? Fear not! Check out this cool name suggestion application which will help you find the best name for your next project, venture, or startup. Keep building!",
-    imageUrl: "https://madhavbahl.tech/portfolio-assets/proj1.PNG",
-    projectUrl: "http://theleanprogrammer.com/name-it/",
+    projectName: "Crypto Show!",
+    projectDescription: "Crypto Show",
+    imageUrl:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-assets-580b7.appspot.com/o/crypto-show.png?alt=media&token=27192ca8-e16f-4916-a77e-0a880e9354f7",
+    projectUrl: "https://netlify-crypto-show.netlify.app/",
   },
 
   {
