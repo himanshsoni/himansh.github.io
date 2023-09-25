@@ -1,5 +1,13 @@
 export const projectsData = [
   {
+    projectName: "Netflix GPT",
+    projectDescription:
+      "Netflix GPT, used OpenAI API for Movie recommendations",
+    imageUrl:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-assets-580b7.appspot.com/o/netflix-gpt.png?alt=media&token=3900b63c-54f2-47ca-a868-52d59e6054c3",
+    projectUrl: "https://netflixx-gpt.netlify.app/",
+  },
+  {
     projectName: "Expense Tracker",
     projectDescription: "Keep track of income and expenses",
     imageUrl:
